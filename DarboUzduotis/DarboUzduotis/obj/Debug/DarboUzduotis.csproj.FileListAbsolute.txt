@@ -1,0 +1,10 @@
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\bin\Debug\DarboUzduotis.exe.config
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\bin\Debug\DarboUzduotis.exe
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\bin\Debug\DarboUzduotis.pdb
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.csprojAssemblyReference.cache
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.Form1.resources
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.Properties.Resources.resources
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.csproj.GenerateResource.cache
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.exe
+C:\Users\zzdovydas\source\repos\DarboUzduotis\DarboUzduotis\obj\Debug\DarboUzduotis.pdb
